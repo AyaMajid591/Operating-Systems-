@@ -1,0 +1,4 @@
+Method: shared
+Stopped within 5 seconds: True
+Exit code: 1
+New resources left behind: []

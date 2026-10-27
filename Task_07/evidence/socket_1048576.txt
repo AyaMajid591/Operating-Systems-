@@ -1,0 +1,5 @@
+Method: socket
+Message size: 1048576 bytes
+Transfer time: 0.2105 seconds
+Throughput: 4864.57 MiB/s
+Average time per message: 205.5679 us

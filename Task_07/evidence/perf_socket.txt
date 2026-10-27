@@ -1,0 +1,13 @@
+# started on Tue Oct 27 13:13:45 2026
+
+
+ Performance counter stats for './ipc_basic socket 4096':
+
+   <not supported>      cpu-cycles:u                     #      nan GHz  cycles_frequency     
+
+       0.261573220 seconds time elapsed
+
+       0.049494000 seconds user
+       0.367271000 seconds sys
+
+

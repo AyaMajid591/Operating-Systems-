@@ -1,0 +1,2 @@
+Round-trip latency: 45.495 microseconds
+Estimated one-way latency: 22.748 microseconds

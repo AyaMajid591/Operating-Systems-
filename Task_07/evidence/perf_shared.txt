@@ -1,0 +1,13 @@
+# started on Tue Oct 27 13:13:54 2026
+
+
+ Performance counter stats for './ipc_shared 4096':
+
+   <not supported>      cpu-cycles:u                     #      nan GHz  cycles_frequency     
+
+      17.283508471 seconds time elapsed
+
+       3.934837000 seconds user
+       5.956616000 seconds sys
+
+

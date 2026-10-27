@@ -1,0 +1,5 @@
+Method: pipe
+Message size: 64 bytes
+Transfer time: 4.4765 seconds
+Throughput: 228.75 MiB/s
+Average time per message: 0.2668 us

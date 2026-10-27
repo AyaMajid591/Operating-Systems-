@@ -1,0 +1,13 @@
+# started on Tue Oct 27 13:13:40 2026
+
+
+ Performance counter stats for './ipc_basic pipe 4096':
+
+   <not supported>      cpu-cycles:u                     #      nan GHz  cycles_frequency     
+
+       0.298404803 seconds time elapsed
+
+       0.040548000 seconds user
+       0.447402000 seconds sys
+
+

@@ -1,0 +1,6 @@
+Method: POSIX Message Queue
+Logical message size: 1048576 bytes
+Queue chunk size: 4096 bytes
+Transfer time: 1.1418 seconds
+Throughput: 896.85 MiB/s
+Average time per logical message: 1115.0102 us

@@ -1,0 +1,5 @@
+Method: Shared Memory
+Message size: 4096 bytes
+Transfer time: 30.7090 seconds
+Throughput: 33.35 MiB/s
+Average time per message: 117.1455 us

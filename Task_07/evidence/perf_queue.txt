@@ -1,0 +1,13 @@
+# started on Tue Oct 27 13:13:49 2026
+
+
+ Performance counter stats for './ipc_queue 4096':
+
+   <not supported>      cpu-cycles:u                     #      nan GHz  cycles_frequency     
+
+       0.981816027 seconds time elapsed
+
+       0.068238000 seconds user
+       0.780457000 seconds sys
+
+
