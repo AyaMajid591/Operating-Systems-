@@ -1,0 +1,18 @@
+The time when unit became active or started is printed after the "@" character.
+The time the unit took to start is printed after the "+" character.
+
+graphical.target @4.619s
+└─power-profiles-daemon.service @4.563s +55ms
+  └─multi-user.target @4.561s
+    └─snapd.seeded.service @2.795s +1.765s
+      └─basic.target @2.755s
+        └─sockets.target @2.755s
+          └─snapd.socket @2.744s +11ms
+            └─sysinit.target @2.734s
+              └─snapd.apparmor.service @2.517s +215ms
+                └─apparmor.service @2.283s +231ms
+                  └─local-fs.target @2.281s
+                    └─boot-efi.mount @2.256s +24ms
+                      └─boot.mount @1.256s +77ms
+                        └─systemd-fsck@dev-disk-by\x2duuid-3dd23a70\x2dc907\x2d4c77\x2da430\x2d2ea30c49c92d.service @676ms +67ms
+                          └─dev-disk-by\x2duuid-3dd23a70\x2dc907\x2d4c77\x2da430\x2d2ea30c49c92d.device

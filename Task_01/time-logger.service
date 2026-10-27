@@ -1,0 +1,14 @@
+
+[Unit]
+Description=Python Time Logger Service
+After=local-fs.target
+
+[Service]
+Type=simple
+User=axyaax
+WorkingDirectory=/home/axyaax/Operating-Systems/Task_01
+ExecStart=/usr/bin/python3 /home/axyaax/Operating-Systems/Task_01/time_logger.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

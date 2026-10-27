@@ -1,0 +1,206 @@
+2.523s dev-virtio\x2dports-com.redhat.spice.0.device
+2.523s sys-devices-pci0000:00-0000:00:07.0-virtio3-virtio\x2dports-vport3p2.device
+2.523s dev-vport3p2.device
+2.520s sys-devices-pci0000:00-0000:00:07.0-virtio3-virtio\x2dports-vport3p1.device
+2.520s dev-vport3p1.device
+2.520s dev-virtio\x2dports-org.qemu.guest_agent.0.device
+2.520s dev-rfkill.device
+2.520s sys-devices-virtual-misc-rfkill.device
+2.516s sys-devices-pci0000:00-0000:00:07.0-virtio3-virtio\x2dports-vport3p3.device
+2.516s dev-virtio\x2dports-org.spice\x2dspace.webdav.0.device
+2.516s dev-vport3p3.device
+2.320s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartnum-3.device
+2.320s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart3.device
+2.320s dev-disk-by\x2did-virtio\x2d3D7D28FC1E1645308F01\x2dpart3.device
+2.320s dev-disk-by\x2ddiskseq-9\x2dpart3.device
+2.320s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartuuid-21101c84\x2da374\x2d4b4d\x2d9683\x2dca9933230a39.device
+2.320s dev-vda3.device
+2.320s sys-devices-pci0000:00-0000:00:06.0-virtio2-block-vda-vda3.device
+2.320s dev-disk-by\x2dpartuuid-21101c84\x2da374\x2d4b4d\x2d9683\x2dca9933230a39.device
+2.320s dev-disk-by\x2dpath-virtio\x2dpci\x2d0000:00:06.0\x2dpart3.device
+2.317s sys-devices-virtual-tty-ttyprintk.device
+2.317s dev-ttyprintk.device
+2.312s sys-devices-pci0000:00-0000:00:06.0-virtio2-block-vda-vda2.device
+2.312s dev-disk-by\x2ddiskseq-9\x2dpart2.device
+2.312s dev-vda2.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2duuid-3dd23a70\x2dc907\x2d4c77\x2da430\x2d2ea30c49c92d.device
+2.311s dev-disk-by\x2dpartuuid-74dda2d8\x2d9b66\x2d4385\x2d8101\x2d9683c1a21277.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart2.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2duuid-A18B\x2d25B1.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartnum-1.device
+2.311s sys-devices-pci0000:00-0000:00:06.0-virtio2-block-vda-vda1.device
+2.311s dev-disk-by\x2dpath-virtio\x2dpci\x2d0000:00:06.0\x2dpart1.device
+2.311s dev-disk-by\x2dpartuuid-63e5bea2\x2d604a\x2d4998\x2d94cd\x2d5135bd3eb35a.device
+2.311s dev-disk-by\x2did-virtio\x2d3D7D28FC1E1645308F01\x2dpart2.device
+2.311s dev-disk-by\x2duuid-3dd23a70\x2dc907\x2d4c77\x2da430\x2d2ea30c49c92d.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartnum-2.device
+2.311s dev-disk-by\x2dpath-virtio\x2dpci\x2d0000:00:06.0\x2dpart2.device
+2.311s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartuuid-74dda2d8\x2d9b66\x2d4385\x2d8101\x2d9683c1a21277.device
+2.310s dev-vda1.device
+2.310s dev-disk-by\x2duuid-A18B\x2d25B1.device
+2.310s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart-by\x2dpartuuid-63e5bea2\x2d604a\x2d4998\x2d94cd\x2d5135bd3eb35a.device
+2.310s dev-disk-by\x2ddiskseq-9\x2dpart1.device
+2.310s dev-disk-by\x2did-virtio\x2d3D7D28FC1E1645308F01\x2dpart1.device
+2.310s dev-disk-by\x2dpath-pci\x2d0000:00:06.0\x2dpart1.device
+2.306s dev-disk-by\x2dpath-virtio\x2dpci\x2d0000:00:06.0.device
+2.306s dev-vda.device
+2.306s dev-disk-by\x2dpath-pci\x2d0000:00:06.0.device
+2.306s dev-disk-by\x2ddiskseq-9.device
+2.306s sys-devices-pci0000:00-0000:00:06.0-virtio2-block-vda.device
+2.306s dev-disk-by\x2did-virtio\x2d3D7D28FC1E1645308F01.device
+2.302s dev-ttyAMA0.device
+2.302s sys-devices-platform-ARMH0011:00-ARMH0011:00:0-ARMH0011:00:0.0-tty-ttyAMA0.device
+2.261s sys-module-configfs.device
+2.260s sys-module-fuse.device
+2.191s sys-devices-pci0000:00-0000:00:01.0-virtio0-net-enp0s1.device
+2.191s sys-subsystem-net-devices-enp0s1.device
+1.887s fwupd-refresh.service
+1.811s fwupd.service
+1.765s snapd.seeded.service
+1.713s snapd.service
+1.211s dracut-initqueue.service
+ 951ms motd-news.service
+ 491ms networkd-dispatcher.service
+ 380ms systemd-tmpfiles-clean.service
+ 358ms initrd-switch-root.service
+ 328ms polkit.service
+ 323ms udisks2.service
+ 311ms chrony.service
+ 309ms accounts-daemon.service
+ 269ms NetworkManager.service
+ 252ms rsyslog.service
+ 239ms apport.service
+ 236ms ModemManager.service
+ 231ms apparmor.service
+ 215ms snapd.apparmor.service
+ 215ms avahi-daemon.service
+ 205ms grub2-common.service
+ 201ms dbus.service
+ 181ms systemd-logind.service
+ 173ms switcheroo-control.service
+ 173ms systemd-udev-trigger.service
+ 169ms systemd-fsck-root.service
+ 124ms user@1000.service
+ 119ms grub-initrd-fallback.service
+ 111ms update-notifier-download.service
+ 108ms gdm.service
+ 103ms systemd-udevd.service
+ 102ms netplan-configure.service
+ 100ms cups.service
+  88ms upower.service
+  78ms systemd-networkd.service
+  77ms boot.mount
+  73ms sysstat.service
+  70ms kdump-tools.service
+  68ms systemd-resolved.service
+  68ms alsa-restore.service
+  67ms systemd-fsck@dev-disk-by\x2duuid-3dd23a70\x2dc907\x2d4c77\x2da430\x2d2ea30c49c92d.service
+  66ms e2scrub_reap.service
+  66ms systemd-journal-flush.service
+  65ms dracut-shutdown.service
+  63ms systemd-journald.service
+  56ms systemd-hostnamed.service
+  55ms power-profiles-daemon.service
+  53ms dev-hugepages.mount
+  53ms dev-mqueue.mount
+  52ms sys-kernel-debug.mount
+  51ms sysstat-collect.service
+  51ms systemd-tmpfiles-setup.service
+  51ms sys-kernel-tracing.mount
+  51ms NetworkManager-wait-online.service
+  50ms dev-loop3.device
+  47ms dev-loop4.device
+  47ms systemd-tmpfiles-setup-dev-early.service
+  45ms lvm2-monitor.service
+  44ms dev-loop7.device
+  41ms systemd-fsck@dev-disk-by\x2duuid-A18B\x2d25B1.service
+  41ms systemd-oomd.service
+  40ms dev-loop6.device
+  40ms dev-loop5.device
+  39ms kmod-static-nodes.service
+  39ms keyboard-setup.service
+  38ms dracut-cmdline.service
+  38ms snap-bare-5.mount
+  37ms modprobe@dm_multipath.service
+  37ms dev-loop2.device
+  36ms systemd-binfmt.service
+  36ms modprobe@efi_pstore.service
+  35ms ssh.service
+  34ms colord.service
+  34ms snap-firefox-8926.mount
+  33ms multipathd.service
+  32ms snap-core24-2125.mount
+  32ms sys-fs-fuse-connections.mount
+  32ms systemd-user-sessions.service
+  31ms snap-gnome\x2d46\x2d2404-154.mount
+  30ms finalrd.service
+  30ms wpa_supplicant.service
+  30ms console-setup.service
+  29ms dev-loop1.device
+  29ms snap-gtk\x2dcommon\x2dthemes-1535.mount
+  29ms systemd-random-seed.service
+  27ms systemd-sysctl.service
+  27ms systemd-remount-fs.service
+  26ms rtkit-daemon.service
+  26ms systemd-modules-load.service
+  25ms blk-availability.service
+  25ms systemd-udev-load-credentials.service
+  24ms boot-efi.mount
+  24ms snap-mesa\x2d2404-1836.mount
+  23ms initrd-cleanup.service
+  22ms setvtrgb.service
+  21ms plymouth-switch-root.service
+  21ms snap-snapd-27740.mount
+  19ms dev-loop0.device
+  18ms dracut-pre-udev.service
+  17ms snap-thunderbird-1261.mount
+  17ms plymouth-quit-wait.service
+  16ms swap.img.swap
+  16ms multipathd-queueing.service
+  15ms plymouth-read-write.service
+  15ms dracut-pre-pivot.service
+  15ms systemd-tmpfiles-setup-dev.service
+  14ms user-runtime-dir@1000.service
+  14ms dracut-pre-mount.service
+  13ms initrd-parse-etc.service
+  13ms lxd-installer.socket
+  13ms tmp.mount
+  13ms proc-sys-fs-binfmt_misc.mount
+  13ms systemd-networkd-persistent-storage.service
+  11ms snapd.socket
+  10ms initrd-udevadm-cleanup-db.service
+   9ms systemd-networkd-wait-online.service
+   9ms ssh.socket
+   9ms ufw.service
+   7ms openvpn.service
+   7ms modprobe@sd_mod.service
+   6ms dracut-mount.service
+   1ms polkit-agent-helper.socket
+ 946us systemd-mute-console.socket
+ 637us systemd-ask-password.socket
+ 604us systemd-factory-reset.socket
+ 543us systemd-sysext.socket
+ 480us systemd-creds.socket
+  79us avahi-daemon.socket
+  56us dbus.socket
+  44us cups.socket
+  29us systemd-journald.socket
+  28us systemd-networkd-resolve-hook.socket
+  28us systemd-journald-dev-log.socket
+  23us systemd-hostnamed.socket
+  20us systemd-networkd-varlink.socket
+  20us dm-event.socket
+  19us lvm2-lvmpolld.socket
+  19us spice-vdagentd.socket
+  18us systemd-oomd.socket
+  17us systemd-resolved-monitor.socket
+  15us systemd-udevd-varlink.socket
+  15us systemd-logind-varlink.socket
+  15us syslog.socket
+  13us uuidd.socket
+  13us systemd-udevd-control.socket
+  13us systemd-rfkill.socket
+  12us systemd-resolved-varlink.socket
+  11us systemd-networkd.socket
+   6us iscsid.socket
+   6us systemd-udevd-kernel.socket
