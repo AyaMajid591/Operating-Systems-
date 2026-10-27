@@ -1,0 +1,12 @@
+Mutex, 2 threads, Short: 0.0176 seconds
+Mutex, 4 threads, Short: 0.0266 seconds
+Mutex, 16 threads, Short: 0.0876 seconds
+Mutex, 2 threads, Long: 0.1531 seconds
+Mutex, 4 threads, Long: 0.3205 seconds
+Mutex, 16 threads, Long: 1.2826 seconds
+Spinlock, 2 threads, Short: 0.0076 seconds
+Spinlock, 4 threads, Short: 0.0371 seconds
+Spinlock, 16 threads, Short: 0.0851 seconds
+Spinlock, 2 threads, Long: 0.1353 seconds
+Spinlock, 4 threads, Long: 0.3358 seconds
+Spinlock, 16 threads, Long: 1.2544 seconds

@@ -1,0 +1,13 @@
+lock,threads,section,time
+Mutex,2,Short,0.017637
+Mutex,4,Short,0.026595
+Mutex,16,Short,0.087570
+Mutex,2,Long,0.153101
+Mutex,4,Long,0.320524
+Mutex,16,Long,1.282554
+Spinlock,2,Short,0.007623
+Spinlock,4,Short,0.037122
+Spinlock,16,Short,0.085138
+Spinlock,2,Long,0.135266
+Spinlock,4,Long,0.335834
+Spinlock,16,Long,1.254447

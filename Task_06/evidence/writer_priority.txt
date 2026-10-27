@@ -1,0 +1,5 @@
+Policy: writer
+Writer completion time: 0.0270 seconds
+Completed writes: 20
+Reader operations: 110
+Exit code: 0
