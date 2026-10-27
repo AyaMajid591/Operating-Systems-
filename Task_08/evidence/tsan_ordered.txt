@@ -1,0 +1,8 @@
+Method: ordered
+Duration: 2 seconds
+P1: meals=682 attempts=682 failed_trylocks=0 max_completed_wait=7.837 ms
+P2: meals=686 attempts=686 failed_trylocks=0 max_completed_wait=5.814 ms
+P3: meals=689 attempts=690 failed_trylocks=0 max_completed_wait=3.828 ms
+P4: meals=694 attempts=694 failed_trylocks=0 max_completed_wait=1.448 ms
+P5: meals=682 attempts=682 failed_trylocks=0 max_completed_wait=5.114 ms
+Total meals: 3433

@@ -1,0 +1,9 @@
+Method: trylock
+Duration: 10 seconds
+P1: meals=0 attempts=6386 failed_trylocks=6386 max_completed_wait=0.000 ms
+P2: meals=0 attempts=6386 failed_trylocks=6386 max_completed_wait=0.000 ms
+P3: meals=0 attempts=6386 failed_trylocks=6386 max_completed_wait=0.000 ms
+P4: meals=0 attempts=6386 failed_trylocks=6386 max_completed_wait=0.000 ms
+P5: meals=0 attempts=6386 failed_trylocks=6386 max_completed_wait=0.000 ms
+Total meals: 0
+Livelock: philosophers keep retrying but complete no meals.

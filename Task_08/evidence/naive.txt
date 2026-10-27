@@ -1,0 +1,9 @@
+Method: naive
+Duration: 10 seconds
+P1: meals=0 attempts=1 failed_trylocks=0 max_completed_wait=0.000 ms
+P2: meals=0 attempts=1 failed_trylocks=0 max_completed_wait=0.000 ms
+P3: meals=0 attempts=1 failed_trylocks=0 max_completed_wait=0.000 ms
+P4: meals=0 attempts=1 failed_trylocks=0 max_completed_wait=0.000 ms
+P5: meals=0 attempts=1 failed_trylocks=0 max_completed_wait=0.000 ms
+Total meals: 0
+Deadlock: all philosophers hold their left fork and wait for their right fork.

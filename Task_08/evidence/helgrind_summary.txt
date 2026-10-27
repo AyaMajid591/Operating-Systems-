@@ -1,0 +1,9 @@
+evidence/helgrind_naive.txt:==4287== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+evidence/helgrind_ordered.txt:==4299== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+evidence/helgrind_trylock.txt:==4310== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+evidence/helgrind_waiter.txt:==4324== Thread #5: lock order "0x40200F8 before 0x40200C8" violated
+evidence/helgrind_waiter.txt:==4324== Thread #2: lock order "0x4020068 before 0x4020038" violated
+evidence/helgrind_waiter.txt:==4324== Thread #4: lock order "0x40200C8 before 0x4020098" violated
+evidence/helgrind_waiter.txt:==4324== Thread #6: lock order "0x4020038 before 0x40200F8" violated
+evidence/helgrind_waiter.txt:==4324== Thread #3: lock order "0x4020098 before 0x4020068" violated
+evidence/helgrind_waiter.txt:==4322== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

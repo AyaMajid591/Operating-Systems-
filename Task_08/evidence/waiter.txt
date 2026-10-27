@@ -1,0 +1,8 @@
+Method: waiter
+Duration: 10 seconds
+P1: meals=2137 attempts=2138 failed_trylocks=0 max_completed_wait=44.779 ms
+P2: meals=2136 attempts=2137 failed_trylocks=0 max_completed_wait=43.371 ms
+P3: meals=2134 attempts=2134 failed_trylocks=0 max_completed_wait=54.019 ms
+P4: meals=2137 attempts=2137 failed_trylocks=0 max_completed_wait=45.073 ms
+P5: meals=2138 attempts=2139 failed_trylocks=0 max_completed_wait=31.004 ms
+Total meals: 10682
