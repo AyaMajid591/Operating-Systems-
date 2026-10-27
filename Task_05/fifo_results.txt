@@ -1,0 +1,2 @@
+Normal: 2.020 seconds
+With FIFO: 1.794 seconds
